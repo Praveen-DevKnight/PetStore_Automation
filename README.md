@@ -14,8 +14,10 @@ A robust Selenium + RestAssured-based automation framework for interacting with 
 - **RestAssured** (API testing)
 - **TestNG / JUnit** (test framework)
 - **Jenkins** (CI/CD orchestration)
+- ##  Getting Started
 ![PetStore Automation Screenshot](1st MileStone.png)
-##  Getting Started
+![PetStore Automation Screenshot](2nd MileStone.png)
+
 
 ### Prerequisites
 - Java 8 or above
