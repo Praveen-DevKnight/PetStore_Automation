@@ -1,16 +1,15 @@
 # PetStore Automation Suite
 
 **Overview**  
-A robust Selenium + RestAssured-based automation framework for interacting with the PetStore API, designed for seamless CI/CD integration via Jenkins.
+A RestAssured-based automation framework for interacting with the PetStore API, designed for seamless CI/CD integration via Jenkins.
 
 ##  Features
-- End-to-end API and UI test automation for PetStore services using RestAssured.
+- End-to-end API test automation  PetStore services using RestAssured.
 - Test suite organized with Maven structure & dependency management.
 - Integrated with **Jenkins** for continuous integration — auto-triggered builds on GitHub commits and smooth deployment workflows.
 
 ##  Tech Stack
 - **Java** | **Maven**
-- **Selenium WebDriver** (UI automation)
 - **RestAssured** (API testing)
 - **TestNG / JUnit** (test framework)
 - **Jenkins** (CI/CD orchestration)
@@ -26,7 +25,6 @@ A robust Selenium + RestAssured-based automation framework for interacting with 
 ### Prerequisites
 - Java 8 or above
 - Maven
-- Selenium WebDriver binaries
 - REST-assured dependencies
 - Jenkins setup with GitHub integration
 
